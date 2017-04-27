@@ -1,1 +1,2 @@
 Adding 1 file in local machine 
+editing the file in the remote machine; to see how pull works
